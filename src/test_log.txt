@@ -1,0 +1,9 @@
+
+DEBUG:root:At row 0: AttributeError 'NoneType' object has no attribute 'find_all'
+CRITICAL:root:Website not responding. Stopped at line 1
+DEBUG:root:line 0: AttributeError 'NoneType' object has no attribute 'find_all'
+CRITICAL:root:line 1: Website not responding
+DEBUG:root:line 0: AttributeError 'NoneType' object has no attribute 'find_all'
+DEBUG:root:line 2: AttributeError 'NoneType' object has no attribute 'find_all'
+DEBUG:root:line 0: AttributeError 'NoneType' object has no attribute 'find_all'
+DEBUG:root:line 2: AttributeError 'NoneType' object has no attribute 'find_all'
